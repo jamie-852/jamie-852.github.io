@@ -1,0 +1,50 @@
+/* Local typography overrides for the home/about page */
+.clearfix p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+/* Keep the bio text to the left and shrink the profile image block */
+.profile.float-right {
+  width: 220px;
+  max-width: 100%;
+  margin: 0 auto 1rem 1.5rem;
+  text-align: center;
+}
+
+.profile.float-right img,
+.profile.float-right figure img {
+  display: block;
+  width: 180px;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* Remove bold from the first name in the navbar brand */
+.navbar-brand .font-weight-bold {
+  font-weight: 400;
+}
+
+/* Small, compact social/contact icons on the homepage */
+.social .contact-icons {
+  font-size: 0.75rem;
+  line-height: 1;
+}
+
+.social .contact-icons a,
+.social .contact-icons i,
+.social .contact-icons img {
+  font-size: 0.75rem;
+  width: 0.85rem;
+  height: 0.85rem;
+  line-height: 1;
+  vertical-align: middle;
+}
+
+footer.fixed-bottom,
+footer.fixed-bottom .container,
+footer.fixed-bottom a {
+  font-size: 0.7rem;
+  line-height: 1.4;
+}
