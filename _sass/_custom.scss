@@ -1,6 +1,6 @@
 /* Local typography overrides for the home/about page */
 .clearfix p {
-  font-size: 0.9rem;
+  font-size: 0.55rem;
   line-height: 1.6;
 }
 
@@ -28,16 +28,16 @@
 
 /* Small, compact social/contact icons on the homepage */
 .social .contact-icons {
-  font-size: 0.75rem;
+  font-size: 0.55rem !important;
   line-height: 1;
 }
 
 .social .contact-icons a,
 .social .contact-icons i,
 .social .contact-icons img {
-  font-size: 0.75rem;
-  width: 0.85rem;
-  height: 0.85rem;
+  font-size: 0.55rem !important;
+  width: 0.55rem !important;
+  height: 0.55rem !important;
   line-height: 1;
   vertical-align: middle;
 }
@@ -45,6 +45,6 @@
 footer.fixed-bottom,
 footer.fixed-bottom .container,
 footer.fixed-bottom a {
-  font-size: 0.7rem;
+  font-size: 0.55rem;
   line-height: 1.4;
 }
