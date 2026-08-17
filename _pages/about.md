@@ -32,7 +32,6 @@ I did my PhD at Imperial with the [EPSRC CDT in BioDesign Engineering](https://w
 
 Outside of research, I love making art, spending time in nature, and exploring.
 
-
 <p style="text-align: center;">
   <hr style="width: 40px; margin: 0 auto 8px auto; border: none; border-top: 1px solid #ccc;">
 </p>
